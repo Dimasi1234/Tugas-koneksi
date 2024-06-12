@@ -13,4 +13,4 @@ ada 6 tabel
 
 #Screenshoot home
 ![Screenshot of the project](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/home.png)
-![Screenshot of the project]([https://github.com/Dimasi1234/Tugas-koneksi/blob/main/home.png](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/home%20(2).png))
+![Screenshot of the project](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/home%20(2).png)
