@@ -1,7 +1,7 @@
 # Tugas-koneksi
 Mengoneksikan mysql ke php
 
-#Desain database
+![chain logo](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/db.png)
 ![Screenshot of the project](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/db.png)
 
 #Screenshoot home
