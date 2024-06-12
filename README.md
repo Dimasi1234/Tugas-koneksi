@@ -9,7 +9,7 @@ ada 6 tabel
 6.Tabel keanggotaan
 
 #Desain database
-https://github.com/Dimasi1234/Tugas-koneksi/blob/main/db.png
+![Screenshot of the project](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/db.png)
 
 #Screenshoot home
 home.png
