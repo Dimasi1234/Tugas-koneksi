@@ -1,6 +1,6 @@
 # Tugas-koneksi
 Mengoneksikan mysql ke php
-
+ada 6 tabel
 # Database
 ![Chain Logo](https://github.com/Dimasi1234/Tugas-koneksi/blob/main/db.png)
 
